@@ -1,0 +1,163 @@
+{
+"customers": [
+  {
+    "customerCode": "C003",
+    "name": "Venture Industries",
+    "address": {
+      "street": "123 Venture Way",
+      "city": "Culver City",
+      "state": "CA",
+      "zip": "90230",
+      "country": "USA"
+    },
+    "primaryContact": {
+      "personCode": "306a",
+      "firstName": "Brock",
+      "lastName": "Sampson",
+      "address": {
+        "street": "123 N 1st Street",
+        "city": "Omaha",
+        "state": "NE",
+        "zip": "68116",
+        "country": "USA"
+      },
+      "emails": [
+        "brock_f_sampson@gmail.com",
+        "bsampson@venture.com"
+      ]
+    }
+  },
+  {
+    "customerCode": "C004",
+    "name": "National Security Administration",
+    "address": {
+      "street": "9800 Savage Rd",
+      "city": "Fort Meade",
+      "state": "MD",
+      "zip": "20755",
+      "country": "USA"
+    },
+    "primaryContact": {
+      "personCode": "321f",
+      "firstName": "Bud",
+      "lastName": "Fox",
+      "address": {
+        "street": "321 Bronx Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10004",
+        "country": "USA"
+      },
+      "emails": [
+        "csheen@crazy.net",
+        "bfox@gmail.com"
+      ]
+    }
+  },
+  {
+    "customerCode": "C005",
+    "name": "Vandelay Industries",
+    "address": {
+      "street": "1060 West Addison",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601",
+      "country": "USA"
+    },
+    "primaryContact": {
+      "personCode": "bbchar",
+      "firstName": "Kaylee",
+      "lastName": "Ehrmantraut",
+      "address": {
+        "street": "800 West 7th Street",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87105",
+        "country": "USA"
+      },
+      "emails": []
+    }
+  },
+  {
+    "customerCode": "C006",
+    "name": "Mr. Smith\u0027s #1 Supply Co. Inc.",
+    "address": {
+      "street": "456 West 7th St.",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68500",
+      "country": "USA"
+    },
+    "primaryContact": {
+      "personCode": "321dr",
+      "firstName": "C.",
+      "lastName": "Baker",
+      "address": {
+        "street": "Avery Hall",
+        "city": "Lincoln",
+        "state": "NE",
+        "zip": "68503",
+        "country": "USA"
+      },
+      "emails": [
+        "dr@baker.com"
+      ]
+    }
+  },
+  {
+    "customerCode": "C002",
+    "name": "Stark Industries",
+    "address": {
+      "street": "184 Marvel Way",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10453",
+      "country": "USA"
+    },
+    "primaryContact": {
+      "personCode": "944c",
+      "firstName": "Starlin",
+      "lastName": "Castro",
+      "address": {
+        "street": "1060 West Addison Street",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60613",
+        "country": "USA"
+      },
+      "emails": [
+        "starlin_castro13@gmail.com",
+        "scastro@cubs.com"
+      ]
+    }
+  },
+  {
+    "customerCode": "C001",
+    "name": "University of Nebraska-Lincoln",
+    "address": {
+      "street": "259 Avery Hall",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68588-0115",
+      "country": "USA"
+    },
+    "primaryContact": {
+      "personCode": "231",
+      "firstName": "Tom",
+      "lastName": "Baker",
+      "address": {
+        "street": "1 Blue Jays Way",
+        "city": "Toronto",
+        "state": "ON",
+        "zip": "M5V 1J1",
+        "country": "Canada"
+      },
+      "emails": [
+        "mostfamous@whovian.com",
+        "tbaker@cse.unl.edu",
+        "thedoctor@bbc.com",
+        "famousdoc@who.com"
+      ]
+    }
+  }
+]}

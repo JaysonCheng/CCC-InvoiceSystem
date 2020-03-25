@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<products>
+<equipment>
+  <productCode>ff23</productCode>
+  <name>Cinco-Fone</name>
+  <pricePerUnit>124.99</pricePerUnit>
+</equipment>
+<consultation>
+  <productCode>3289</productCode>
+  <name>Cinco-Fone Training</name>
+  <consultant>
+    <personCode>aef1</personCode>
+    <firstName>Gordon</firstName>
+    <lastName>Gekko</lastName>
+    <address>
+      <street>1 Wall Street</street>
+      <city>New York</city>
+      <state>NY</state>
+      <zip>10005-0012</zip>
+      <country>USA</country>
+    </address>
+    <emails/>
+  </consultant>
+  <pricePerHour>25.0</pricePerHour>
+</consultation>
+<consultation>
+  <productCode>782g</productCode>
+  <name>Server System Setup</name>
+  <consultant>
+    <personCode>321nd</personCode>
+    <firstName>William</firstName>
+    <lastName>Hartnell</lastName>
+    <address>
+      <street>1060 West Addison Street</street>
+      <city>Chicago</city>
+      <state>IL</state>
+      <zip>60613</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <email>whartnell@doctors.com</email>
+      <email>dr@who.com</email>
+    </emails>
+  </consultant>
+  <pricePerHour>150.0</pricePerHour>
+</consultation>
+<license>
+  <productCode>90fa</productCode>
+  <name>Cinco Long Distance Service</name>
+  <fee>2000.0</fee>
+  <annualCost>12000.0</annualCost>
+</license>
+<equipment>
+  <productCode>1239</productCode>
+  <name>Cinco Video Cube Playback System</name>
+  <pricePerUnit>5000.0</pricePerUnit>
+</equipment>
+<license>
+  <productCode>3295</productCode>
+  <name>Domain registration</name>
+  <fee>350.0</fee>
+  <annualCost>1200.0</annualCost>
+</license>
+<equipment>
+  <productCode>fp12</productCode>
+  <name>Internette Discs</name>
+  <pricePerUnit>14.99</pricePerUnit>
+</equipment>
+<license>
+  <productCode>3294</productCode>
+  <name>Cloud SQL Hosting</name>
+  <fee>0.0</fee>
+  <annualCost>35000.0</annualCost>
+</license>
+<equipment>
+  <productCode>b29e</productCode>
+  <name>Cinco MIDI Organizer</name>
+  <pricePerUnit>2500.0</pricePerUnit>
+</equipment>
+</products>

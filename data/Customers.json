@@ -1,0 +1,292 @@
+[
+  {
+    "type": "G",
+    "customerCode": "C001",
+    "primaryContact": "61cb",
+    "name": "Selleck Dining Hall",
+    "address": {
+      "street": "600 N 15th St",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "685808",
+      "country": "USA"
+    },
+    "primaryContactInfo": {
+      "personCode": "61cb",
+      "firstName": " Madison",
+      "lastName": "O\u0027James",
+      "address": {
+        "street": "8896 East 1st Ave.",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75001",
+        "country": "USA"
+      },
+      "emailaddress": [
+        "ojamesmad@ds9.com",
+        "ojames@enterprise.gov"
+      ]
+    }
+  },
+  {
+    "type": "C",
+    "customerCode": "C002",
+    "primaryContact": "1652",
+    "name": "Stark Industries",
+    "address": {
+      "street": "184 Marvel Way",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10453",
+      "country": "USA"
+    },
+    "primaryContactInfo": {
+      "personCode": "1652",
+      "firstName": " Madison",
+      "lastName": "O\u0027James",
+      "address": {
+        "street": "895 Enemy Street",
+        "city": "Ottawa",
+        "state": "ON",
+        "zip": "K1A 0G9",
+        "country": "Canada"
+      },
+      "emailaddress": [
+        ""
+      ]
+    }
+  },
+  {
+    "type": "C",
+    "customerCode": "C003",
+    "primaryContact": "408c",
+    "name": "Fenghuang Bike Company",
+    "address": {
+      "street": "233 Fenghuang way",
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "zip": "90230",
+      "country": "China"
+    },
+    "primaryContactInfo": {
+      "personCode": "408c",
+      "firstName": " Stockton",
+      "lastName": "Bryan",
+      "address": {
+        "street": "122 East Jorgenson Street",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60613",
+        "country": "USA"
+      },
+      "emailaddress": [
+        "bstockton@cubs.com",
+        "bryan_stockton91@gmail.com"
+      ]
+    }
+  },
+  {
+    "type": "G",
+    "customerCode": "C004",
+    "primaryContact": "ac89",
+    "name": "National Pepper Research Institute",
+    "address": {
+      "street": "4235 Pepper Rd",
+      "city": "Barton",
+      "state": "MD",
+      "zip": "05822",
+      "country": "USA"
+    },
+    "primaryContactInfo": {
+      "personCode": "ac89",
+      "firstName": " Deaaron",
+      "lastName": "Fox",
+      "address": {
+        "street": "345 Ashes Street",
+        "city": "Brooklyn",
+        "state": "BN",
+        "zip": "10098",
+        "country": "USA"
+      },
+      "emailaddress": [
+        "dfox@gmail.com",
+        "foxdear@crazy.net"
+      ]
+    }
+  },
+  {
+    "type": "C",
+    "customerCode": "C005",
+    "primaryContact": "98ac",
+    "name": "Cheese Industries",
+    "address": {
+      "street": "1060 East town",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "60808",
+      "country": "USA"
+    },
+    "primaryContactInfo": {
+      "personCode": "98ac",
+      "firstName": "Tom",
+      "lastName": "Bicker",
+      "address": {
+        "street": "4 Red Jazz Way",
+        "city": " Toronto",
+        "state": " ON",
+        "zip": " M5V 1J1",
+        "country": " Canada"
+      },
+      "emailaddress": [
+        "thebickertom@who.com",
+        "tbicker@cse.unl.edu",
+        "mostunpopular@whovian.com",
+        "thelawyer@bbc.com"
+      ]
+    }
+  },
+  {
+    "type": "C",
+    "customerCode": "C006",
+    "primaryContact": "654pf",
+    "name": "Hot Chill Company",
+    "address": {
+      "street": "233 South 7th St.",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68980",
+      "country": "USA"
+    },
+    "primaryContactInfo": {
+      "personCode": "654pf",
+      "firstName": " C.",
+      "lastName": "Steve",
+      "address": {
+        "street": "Othmer Hall",
+        "city": "Lincoln",
+        "state": "NE",
+        "zip": "68503",
+        "country": "USA"
+      },
+      "emailaddress": [
+        "captainamerica@avengers.com"
+      ]
+    }
+  },
+  {
+    "type": "G",
+    "customerCode": "C007",
+    "primaryContact": "3lnrd",
+    "name": "University of Nebraska-Lincoln",
+    "address": {
+      "street": "530 N 17th St",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "685808",
+      "country": "USA"
+    },
+    "primaryContactInfo": {
+      "personCode": "3lnrd",
+      "firstName": "Timmy",
+      "lastName": "McClarance",
+      "address": {
+        "street": "117-08 Roosevelt Ave",
+        "city": " Flushing",
+        "state": " NY",
+        "zip": "11368",
+        "country": "USA"
+      },
+      "emailaddress": [
+        "timmc@hotmail.com",
+        "mctimmymc@whofan.com"
+      ]
+    }
+  },
+  {
+    "type": "C",
+    "customerCode": "C008",
+    "primaryContact": "1569st",
+    "name": "The Marcus Lincoln Grand Cinema",
+    "address": {
+      "street": "1101 P St",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68508",
+      "country": "USA"
+    },
+    "primaryContactInfo": {
+      "personCode": "1569st",
+      "firstName": " Parker",
+      "lastName": "McGann",
+      "address": {
+        "street": "8 Lifeend Stadium Sr",
+        "city": " West Rutherheck",
+        "state": " NJ",
+        "zip": "07060",
+        "country": "USA"
+      },
+      "emailaddress": [
+        "pmcganker@mlb.com",
+        "spidey@bar.com",
+        "pmc@unl.edu"
+      ]
+    }
+  },
+  {
+    "type": "C",
+    "customerCode": "C009",
+    "primaryContact": "188a",
+    "name": "Lied Center for Performing Arts",
+    "address": {
+      "street": "301 N 12th St",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68508",
+      "country": "USA"
+    },
+    "primaryContactInfo": {
+      "personCode": "188a",
+      "firstName": " Coocie",
+      "lastName": "Tony",
+      "address": {
+        "street": "187 N 2nd Street",
+        "city": "Omaha",
+        "state": "NE",
+        "zip": "68116",
+        "country": "USA"
+      },
+      "emailaddress": [
+        "tony_c_cococie@gmail.com",
+        "tcoocie@fiz.com"
+      ]
+    }
+  },
+  {
+    "type": "G",
+    "customerCode": "C010",
+    "primaryContact": "pt81",
+    "name": "Shanghai University",
+    "address": {
+      "street": "366 Fengyuan Way",
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "zip": "200092",
+      "country": "USA"
+    },
+    "primaryContactInfo": {
+      "personCode": "pt81",
+      "firstName": " Simmons",
+      "lastName": "Ben",
+      "address": {
+        "street": "1075 East Addidas Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "40865",
+        "country": "USA"
+      },
+      "emailaddress": [
+        "simmonsbb@cubs.com"
+      ]
+    }
+  }
+]

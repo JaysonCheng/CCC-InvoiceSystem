@@ -1,0 +1,98 @@
+Executive Summary Report
+=========================
+Invoice   Customer                                          Salesperson                      Subtotal        Fees       Taxes       Total
+INV001    Stark Industries                                  Eccleston, Chris              $  10917.81 $   2000.00 $    601.51 $  13519.32
+INV002    University of Nebraska-Lincoln                    Smith, Matt                   $   8374.75 $    275.00 $      0.00 $   8649.75
+INV003    Vandelay Industries                               Tennant, David                $  24756.75 $   2000.00 $   1086.53 $  27843.28
+INV004    Stark Industries                                  Tennant, David                $ 182500.00 $    500.00 $   7756.25 $ 190756.25
+=========================================================================================================================================
+TOTALS                                                                                    $ 226549.31 $   4775.00 $   9444.29 $ 240768.60
+
+
+
+
+Individual Invoice Detail Reports
+==================================================
+Invoice INV001
+========================
+Salesperson: Eccleston, Chris
+Customer Info: 
+  Stark Industries (C002) 
+  Castro, Starlin
+  184 Marvel Way
+  New York NY 10453 USA
+-------------------------------------------
+Code      Item                                                                         Fees       Total
+b29e      Cinco MIDI Organizer (2 units @ $2500.00/unit)                        $      0.00 $   5000.00
+90fa      Cinco Long Distance Service (180 days @ $12000.00/yr)                 $   2000.00 $   5917.81
+                                                                                ========================
+SUB-TOTALS                                                                      $   2000.00 $  10917.81
+COMPLIANCE FEE                                                                              $      0.00
+TAXES                                                                                       $    601.51
+TOTAL                                                                                       $  13519.32
+
+
+
+Invoice INV002
+========================
+Salesperson: Smith, Matt
+Customer Info: 
+  University of Nebraska-Lincoln (C001) 
+  Baker, Tom
+  259 Avery Hall
+  Lincoln NE 68588-0115 USA
+-------------------------------------------
+Code      Item                                                                         Fees       Total
+3289      Cinco-Fone Training (10.00 hrs @ $25.00/hr)                           $    150.00 $    250.00
+1239      Cinco Video Cube Playback System (1 units @ $5000.00/unit)            $      0.00 $   5000.00
+ff23      Cinco-Fone (25 units @ $124.99/unit)                                  $      0.00 $   3124.75
+                                                                                ========================
+SUB-TOTALS                                                                      $    275.00 $   8374.75
+COMPLIANCE FEE                                                                              $    125.00
+TAXES                                                                                       $      0.00
+TOTAL                                                                                       $   8649.75
+
+
+
+Invoice INV003
+========================
+Salesperson: Tennant, David
+Customer Info: 
+  Vandelay Industries (C005) 
+  Ehrmantraut, Kaylee
+  1060 West Addison
+  Chicago IL 60601 USA
+-------------------------------------------
+Code      Item                                                                         Fees       Total
+ff23      Cinco-Fone (10 units @ $124.99/unit)                                  $      0.00 $   1249.90
+90fa      Cinco Long Distance Service (715 days @ $12000.00/yr)                 $   2000.00 $  23506.85
+                                                                                ========================
+SUB-TOTALS                                                                      $   2000.00 $  24756.75
+COMPLIANCE FEE                                                                              $      0.00
+TAXES                                                                                       $   1086.53
+TOTAL                                                                                       $  27843.28
+
+
+
+Invoice INV004
+========================
+Salesperson: Tennant, David
+Customer Info: 
+  Stark Industries (C002) 
+  Castro, Starlin
+  184 Marvel Way
+  New York NY 10453 USA
+-------------------------------------------
+Code      Item                                                                         Fees       Total
+782g      Server System Setup (10.00 hrs @ $150.00/hr)                          $    150.00 $   1500.00
+3295      Domain registration (1825 days @ $1200.00/yr)                         $    350.00 $   6000.00
+3294      Cloud SQL Hosting (1825 days @ $35000.00/yr)                          $      0.00 $ 175000.00
+                                                                                ========================
+SUB-TOTALS                                                                      $    500.00 $ 182500.00
+COMPLIANCE FEE                                                                              $      0.00
+TAXES                                                                                       $   7756.25
+TOTAL                                                                                       $ 190756.25
+
+
+
+

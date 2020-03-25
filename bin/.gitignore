@@ -1,0 +1,12 @@
+/.classpath
+/.project
+/com/
+/customerData/
+/databaseConnect/
+/invoice/
+/linkedList/
+/loadMySQLDatabase/
+/productData/
+/readFile/
+/writeJson/
+/writeXML/

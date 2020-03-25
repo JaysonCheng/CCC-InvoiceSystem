@@ -1,0 +1,101 @@
+[
+  {
+    "serviceFee": 100.0,
+    "annualLicenseFee": 1500.0,
+    "productCode": "3301",
+    "type": "L",
+    "name": "Member registration"
+  },
+  {
+    "pricePerUnit": 115.99,
+    "productCode": "fl24",
+    "type": "E",
+    "name": "Cinco-Fone"
+  },
+  {
+    "pricePerUnit": 4500.0,
+    "productCode": "fg13",
+    "type": "E",
+    "name": "Cinco Video Cube Playback System"
+  },
+  {
+    "pricePerUnit": 24.0,
+    "productCode": "1256",
+    "type": "E",
+    "name": "Internette Discs"
+  },
+  {
+    "serviceFee": 1800.0,
+    "annualLicenseFee": 14500.0,
+    "productCode": "789p",
+    "type": "L",
+    "name": "Cinco Long Distance Service"
+  },
+  {
+    "consultantPersonCode": "li87",
+    "hourlyFee": 30.0,
+    "consultant": {
+      "personCode": "li87",
+      "firstName": " Lancy",
+      "lastName": "Howard",
+      "address": {
+        "street": "Campus El287",
+        "city": "Mexico City",
+        "state": " FD",
+        "zip": "",
+        "country": " Mexico"
+      },
+      "emailaddress": [
+        "lancehoward@cse.unl.edu",
+        "lancy@unl.edu"
+      ]
+    },
+    "productCode": "3175",
+    "type": "C",
+    "name": "Cinco-Fone Training"
+  },
+  {
+    "consultantPersonCode": "mk98a",
+    "hourlyFee": 175.0,
+    "consultant": {
+      "personCode": "mk98a",
+      "firstName": " Patrick",
+      "lastName": "Stark",
+      "address": {
+        "street": "1041 East Addidas Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "40865",
+        "country": "USA"
+      },
+      "emailaddress": [
+        "patrickstar@cse.unl.edu",
+        "ptrstar98@unl.edu"
+      ]
+    },
+    "productCode": "793g",
+    "type": "C",
+    "name": "Database System Setup"
+  },
+  {
+    "serviceFee": 1000.0,
+    "annualLicenseFee": 32500.0,
+    "productCode": "3249",
+    "type": "L",
+    "name": "Cloud SQL Hosting"
+  },
+  {
+    "serviceFee": 1500.0,
+    "annualLicenseFee": 900.0,
+    "productCode": "325y",
+    "type": "L",
+    "name": "Apple Quick Service"
+  },
+  {
+    "serviceFee": 230.0,
+    "annualLicenseFee": 1000.0,
+    "productCode": "3455",
+    "type": "L",
+    "name": "Domain registration"
+  }
+]

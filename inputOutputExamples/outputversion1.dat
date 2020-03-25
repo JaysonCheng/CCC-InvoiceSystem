@@ -1,0 +1,128 @@
+Executive Summary Report
+=========================
+Invoice  Customer                           Salesperson          Subtotal             Service Fee          Compliance Fee          Taxes                  Total
+INV004   Cheese Industries                 Stark,Patrick        $123540.00            $300.00               $0.00                 $5250.45              $129090.45
+INV003   Fenghuang Bike Company            Howard,Lancy         $768.27               $1650.00              $0.00                 $51.79                $2470.06
+INV002   Lied Center for Performing Arts   Harry,Williams       $13993.15             $250.00               $0.00                 $842.21               $15085.36
+INV006   Selleck Dining Hall               Bryan,Stockton       $139.99               $0.00                 $125.00               $0.00                 $264.99
+INV001   The Marcus Lincoln Grand Cinema   McGann,Parker        $2804.23              $100.00               $0.00                 $167.03               $3071.26
+INV005   University of Nebraska-Lincoln    Fox,Deaaron          $199664.38            $2030.00              $125.00               $0.00                 $201819.38
+=========================================================================================================================================================================
+TOTAL                                                           $340910.03            $4330.00              $250.00               $6311.47              $351801.50
+
+Individual Invoice Detail Reports
+==================================================
+INV004
+========================
+Salesperson: Stark,Patrick
+Customer Info:
+Cheese Industries (C005)
+Bicker,Tom
+1060 East town
+Omaha      NE  60808 USA
+
+-------------------------------------------
+Code       Item                                         Usage                            Fees                  Total
+3175       Cinco-Fone Training                  (233.0hrs  30.0/hr)                      $150.00               $6990.00
+793g       Database System Setup                (666.0hrs  175.0/hr)                     $150.00               $116550.00
+                                              ========================================================================
+SUB-TOTALS                                                                               $300.00               $123540.00
+TAXES                                                                                                          $5250.45
+TOTAL                                                                                                          $129090.45
+
+
+INV003
+========================
+Salesperson: Howard,Lancy
+Customer Info:
+Fenghuang Bike Company (C003)
+Bryan,Stockton
+233 Fenghuang way
+Shanghai   Shanghai 90230 China
+
+-------------------------------------------
+Code       Item                                         Usage                            Fees                  Total
+fl24       Cinco-Fone                           (6.0units  115.99/unit)                  $0.00                 $695.94
+3175       Cinco-Fone Training                  (2.0hrs  30.0/hr)                        $150.00               $60.00
+325y       Apple Quick Service                  (5.0days  900.0/yr)                      $1500.00              $12.33
+                                              ========================================================================
+SUB-TOTALS                                                                               $1650.00              $768.27
+TAXES                                                                                                          $51.79
+TOTAL                                                                                                          $2470.06
+
+
+INV002
+========================
+Salesperson: Harry,Williams
+Customer Info:
+Lied Center for Performing Arts (C009)
+Tony,Coocie
+301 N 12th St
+Lincoln    NE  68508 USA
+
+-------------------------------------------
+Code       Item                                         Usage                            Fees                  Total
+3301       Member registration                  (1142.0days  1500.0/yr)                  $100.00               $4693.15
+fg13       Cinco Video Cube Playback System     (2.0units  4500.0/unit)                  $0.00                 $9000.00
+3175       Cinco-Fone Training                  (10.0hrs  30.0/hr)                       $150.00               $300.00
+                                              ========================================================================
+SUB-TOTALS                                                                               $250.00               $13993.15
+TAXES                                                                                                          $842.21
+TOTAL                                                                                                          $15085.36
+
+
+INV006
+========================
+Salesperson: Bryan,Stockton
+Customer Info:
+Selleck Dining Hall (C001)
+O 'James,Madison
+600 N 15th St
+Lincoln    NE  685808 USA
+
+-------------------------------------------
+Code       Item                                         Usage                            Fees                  Total
+fl24       Cinco-Fone                           (1.0units  115.99/unit)                  $0.00                 $115.99
+1256       Internette Discs                     (1.0units  24.0/unit)                    $0.00                 $24.00
+                                              ========================================================================
+SUB-TOTALS                                                                               $0.00                 $139.99
+TAXES                                                                                                          $0.00
+TOTAL                                                                                                          $264.99
+
+
+INV001
+========================
+Salesperson: McGann,Parker
+Customer Info:
+The Marcus Lincoln Grand Cinema (C008)
+McGann,Parker
+1101 P St
+Lincoln    NE  68508 USA
+
+-------------------------------------------
+Code       Item                                         Usage                            Fees                  Total
+3301       Member registration                  (259.0days  1500.0/yr)                   $100.00               $1064.38
+fl24       Cinco-Fone                           (15.0units  115.99/unit)                 $0.00                 $1739.85
+                                              ========================================================================
+SUB-TOTALS                                                                               $100.00               $2804.23
+TAXES                                                                                                          $167.03
+TOTAL                                                                                                          $3071.26
+
+
+INV005
+========================
+Salesperson: Fox,Deaaron
+Customer Info:
+University of Nebraska-Lincoln (C007)
+McClarance,Timmy
+530 N 17th St
+Lincoln    NE  685808 USA
+
+-------------------------------------------
+Code       Item                                         Usage                            Fees                  Total
+789p       Cinco Long Distance Service          (4845.0days  14500.0/yr)                 $1800.00              $192472.60
+3455       Domain registration                  (2625.0days  1000.0/yr)                  $230.00               $7191.78
+                                              ========================================================================
+SUB-TOTALS                                                                               $2030.00              $199664.38
+TAXES                                                                                                          $0.00
+TOTAL                                                                                                          $201819.38                                

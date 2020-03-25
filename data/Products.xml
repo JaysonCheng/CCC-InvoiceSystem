@@ -1,0 +1,101 @@
+<products>
+  <Licenses>
+    <productCode>3301</productCode>
+    <type>L</type>
+    <name>Member registration</name>
+    <serviceFee>100.0</serviceFee>
+    <annualLicenseFee>1500.0</annualLicenseFee>
+  </Licenses>
+  <Equipment>
+    <productCode>fl24</productCode>
+    <type>E</type>
+    <name>Cinco-Fone</name>
+    <pricePerUnit>115.99</pricePerUnit>
+  </Equipment>
+  <Equipment>
+    <productCode>fg13</productCode>
+    <type>E</type>
+    <name>Cinco Video Cube Playback System</name>
+    <pricePerUnit>4500.0</pricePerUnit>
+  </Equipment>
+  <Equipment>
+    <productCode>1256</productCode>
+    <type>E</type>
+    <name>Internette Discs</name>
+    <pricePerUnit>24.0</pricePerUnit>
+  </Equipment>
+  <Licenses>
+    <productCode>789p</productCode>
+    <type>L</type>
+    <name>Cinco Long Distance Service</name>
+    <serviceFee>1800.0</serviceFee>
+    <annualLicenseFee>14500.0</annualLicenseFee>
+  </Licenses>
+  <Consultations>
+    <productCode>3175</productCode>
+    <type>C</type>
+    <name>Cinco-Fone Training</name>
+    <consultantPersonCode>li87</consultantPersonCode>
+    <hourlyFee>30.0</hourlyFee>
+    <consultant>
+      <personCode>li87</personCode>
+      <firstName> Lancy</firstName>
+      <lastName>Howard</lastName>
+      <address>
+        <street>Campus El287</street>
+        <city>Mexico City</city>
+        <state> FD</state>
+        <zip></zip>
+        <country> Mexico</country>
+      </address>
+      <emailaddress>
+        <string>lancehoward@cse.unl.edu</string>
+        <string>lancy@unl.edu</string>
+      </emailaddress>
+    </consultant>
+  </Consultations>
+  <Consultations>
+    <productCode>793g</productCode>
+    <type>C</type>
+    <name>Database System Setup</name>
+    <consultantPersonCode>mk98a</consultantPersonCode>
+    <hourlyFee>175.0</hourlyFee>
+    <consultant>
+      <personCode>mk98a</personCode>
+      <firstName> Patrick</firstName>
+      <lastName>Stark</lastName>
+      <address>
+        <street>1041 East Addidas Street</street>
+        <city>Minneapolis</city>
+        <state>MN</state>
+        <zip>40865</zip>
+        <country>USA</country>
+      </address>
+      <emailaddress>
+        <string>patrickstar@cse.unl.edu</string>
+        <string>ptrstar98@unl.edu</string>
+      </emailaddress>
+    </consultant>
+  </Consultations>
+  <Licenses>
+    <productCode>3249</productCode>
+    <type>L</type>
+    <name>Cloud SQL Hosting</name>
+    <serviceFee>1000.0</serviceFee>
+    <annualLicenseFee>32500.0</annualLicenseFee>
+  </Licenses>
+  <Licenses>
+    <productCode>325y</productCode>
+    <type>L</type>
+    <name>Apple Quick Service</name>
+    <serviceFee>1500.0</serviceFee>
+    <annualLicenseFee>900.0</annualLicenseFee>
+  </Licenses>
+  <Licenses>
+    <productCode>3455</productCode>
+    <type>L</type>
+    <name>Domain registration</name>
+    <serviceFee>230.0</serviceFee>
+    <annualLicenseFee>1000.0</annualLicenseFee>
+  </Licenses>
+</products>

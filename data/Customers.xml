@@ -1,0 +1,292 @@
+<customers>
+  <governmentCustomer>
+    <customerCode>C001</customerCode>
+    <primaryContact>61cb</primaryContact>
+    <name>Selleck Dining Hall</name>
+    <address>
+      <street>600 N 15th St</street>
+      <city>Lincoln</city>
+      <state>NE</state>
+      <zip>685808</zip>
+      <country>USA</country>
+    </address>
+    <primaryContactInfo>
+      <personCode>61cb</personCode>
+      <firstName> Madison</firstName>
+      <lastName>O&apos;James</lastName>
+      <address>
+        <street>8896 East 1st Ave.</street>
+        <city>Dallas</city>
+        <state>TX</state>
+        <zip>75001</zip>
+        <country>USA</country>
+      </address>
+      <emailaddress>
+        <string>ojamesmad@ds9.com</string>
+        <string>ojames@enterprise.gov</string>
+      </emailaddress>
+    </primaryContactInfo>
+    <type>G</type>
+  </governmentCustomer>
+  <companyCustomer>
+    <customerCode>C002</customerCode>
+    <primaryContact>1652</primaryContact>
+    <name>Stark Industries</name>
+    <address>
+      <street>184 Marvel Way</street>
+      <city>New York</city>
+      <state>NY</state>
+      <zip>10453</zip>
+      <country>USA</country>
+    </address>
+    <primaryContactInfo>
+      <personCode>1652</personCode>
+      <firstName> Madison</firstName>
+      <lastName>O&apos;James</lastName>
+      <address>
+        <street>895 Enemy Street</street>
+        <city>Ottawa</city>
+        <state>ON</state>
+        <zip>K1A 0G9</zip>
+        <country>Canada</country>
+      </address>
+      <emailaddress>
+        <string></string>
+      </emailaddress>
+    </primaryContactInfo>
+    <type>C</type>
+  </companyCustomer>
+  <companyCustomer>
+    <customerCode>C003</customerCode>
+    <primaryContact>408c</primaryContact>
+    <name>Fenghuang Bike Company</name>
+    <address>
+      <street>233 Fenghuang way</street>
+      <city>Shanghai</city>
+      <state>Shanghai</state>
+      <zip>90230</zip>
+      <country>China</country>
+    </address>
+    <primaryContactInfo>
+      <personCode>408c</personCode>
+      <firstName> Stockton</firstName>
+      <lastName>Bryan</lastName>
+      <address>
+        <street>122 East Jorgenson Street</street>
+        <city>Chicago</city>
+        <state>IL</state>
+        <zip>60613</zip>
+        <country>USA</country>
+      </address>
+      <emailaddress>
+        <string>bstockton@cubs.com</string>
+        <string>bryan_stockton91@gmail.com</string>
+      </emailaddress>
+    </primaryContactInfo>
+    <type>C</type>
+  </companyCustomer>
+  <governmentCustomer>
+    <customerCode>C004</customerCode>
+    <primaryContact>ac89</primaryContact>
+    <name>National Pepper Research Institute</name>
+    <address>
+      <street>4235 Pepper Rd</street>
+      <city>Barton</city>
+      <state>MD</state>
+      <zip>05822</zip>
+      <country>USA</country>
+    </address>
+    <primaryContactInfo>
+      <personCode>ac89</personCode>
+      <firstName> Deaaron</firstName>
+      <lastName>Fox</lastName>
+      <address>
+        <street>345 Ashes Street</street>
+        <city>Brooklyn</city>
+        <state>BN</state>
+        <zip>10098</zip>
+        <country>USA</country>
+      </address>
+      <emailaddress>
+        <string>dfox@gmail.com</string>
+        <string>foxdear@crazy.net</string>
+      </emailaddress>
+    </primaryContactInfo>
+    <type>G</type>
+  </governmentCustomer>
+  <companyCustomer>
+    <customerCode>C005</customerCode>
+    <primaryContact>98ac</primaryContact>
+    <name>Cheese Industries</name>
+    <address>
+      <street>1060 East town</street>
+      <city>Omaha</city>
+      <state>NE</state>
+      <zip>60808</zip>
+      <country>USA</country>
+    </address>
+    <primaryContactInfo>
+      <personCode>98ac</personCode>
+      <firstName>Tom</firstName>
+      <lastName>Bicker</lastName>
+      <address>
+        <street>4 Red Jazz Way</street>
+        <city> Toronto</city>
+        <state> ON</state>
+        <zip> M5V 1J1</zip>
+        <country> Canada</country>
+      </address>
+      <emailaddress>
+        <string>thebickertom@who.com</string>
+        <string>tbicker@cse.unl.edu</string>
+        <string>mostunpopular@whovian.com</string>
+        <string>thelawyer@bbc.com</string>
+      </emailaddress>
+    </primaryContactInfo>
+    <type>C</type>
+  </companyCustomer>
+  <companyCustomer>
+    <customerCode>C006</customerCode>
+    <primaryContact>654pf</primaryContact>
+    <name>Hot Chill Company</name>
+    <address>
+      <street>233 South 7th St.</street>
+      <city>Omaha</city>
+      <state>NE</state>
+      <zip>68980</zip>
+      <country>USA</country>
+    </address>
+    <primaryContactInfo>
+      <personCode>654pf</personCode>
+      <firstName> C.</firstName>
+      <lastName>Steve</lastName>
+      <address>
+        <street>Othmer Hall</street>
+        <city>Lincoln</city>
+        <state>NE</state>
+        <zip>68503</zip>
+        <country>USA</country>
+      </address>
+      <emailaddress>
+        <string>captainamerica@avengers.com</string>
+      </emailaddress>
+    </primaryContactInfo>
+    <type>C</type>
+  </companyCustomer>
+  <governmentCustomer>
+    <customerCode>C007</customerCode>
+    <primaryContact>3lnrd</primaryContact>
+    <name>University of Nebraska-Lincoln</name>
+    <address>
+      <street>530 N 17th St</street>
+      <city>Lincoln</city>
+      <state>NE</state>
+      <zip>685808</zip>
+      <country>USA</country>
+    </address>
+    <primaryContactInfo>
+      <personCode>3lnrd</personCode>
+      <firstName>Timmy</firstName>
+      <lastName>McClarance</lastName>
+      <address>
+        <street>117-08 Roosevelt Ave</street>
+        <city> Flushing</city>
+        <state> NY</state>
+        <zip>11368</zip>
+        <country>USA</country>
+      </address>
+      <emailaddress>
+        <string>timmc@hotmail.com</string>
+        <string>mctimmymc@whofan.com</string>
+      </emailaddress>
+    </primaryContactInfo>
+    <type>G</type>
+  </governmentCustomer>
+  <companyCustomer>
+    <customerCode>C008</customerCode>
+    <primaryContact>1569st</primaryContact>
+    <name>The Marcus Lincoln Grand Cinema</name>
+    <address>
+      <street>1101 P St</street>
+      <city>Lincoln</city>
+      <state>NE</state>
+      <zip>68508</zip>
+      <country>USA</country>
+    </address>
+    <primaryContactInfo>
+      <personCode>1569st</personCode>
+      <firstName> Parker</firstName>
+      <lastName>McGann</lastName>
+      <address>
+        <street>8 Lifeend Stadium Sr</street>
+        <city> West Rutherheck</city>
+        <state> NJ</state>
+        <zip>07060</zip>
+        <country>USA</country>
+      </address>
+      <emailaddress>
+        <string>pmcganker@mlb.com</string>
+        <string>spidey@bar.com</string>
+        <string>pmc@unl.edu</string>
+      </emailaddress>
+    </primaryContactInfo>
+    <type>C</type>
+  </companyCustomer>
+  <companyCustomer>
+    <customerCode>C009</customerCode>
+    <primaryContact>188a</primaryContact>
+    <name>Lied Center for Performing Arts</name>
+    <address>
+      <street>301 N 12th St</street>
+      <city>Lincoln</city>
+      <state>NE</state>
+      <zip>68508</zip>
+      <country>USA</country>
+    </address>
+    <primaryContactInfo>
+      <personCode>188a</personCode>
+      <firstName> Coocie</firstName>
+      <lastName>Tony</lastName>
+      <address>
+        <street>187 N 2nd Street</street>
+        <city>Omaha</city>
+        <state>NE</state>
+        <zip>68116</zip>
+        <country>USA</country>
+      </address>
+      <emailaddress>
+        <string>tony_c_cococie@gmail.com</string>
+        <string>tcoocie@fiz.com</string>
+      </emailaddress>
+    </primaryContactInfo>
+    <type>C</type>
+  </companyCustomer>
+  <governmentCustomer>
+    <customerCode>C010</customerCode>
+    <primaryContact>pt81</primaryContact>
+    <name>Shanghai University</name>
+    <address>
+      <street>366 Fengyuan Way</street>
+      <city>Shanghai</city>
+      <state>Shanghai</state>
+      <zip>200092</zip>
+      <country>USA</country>
+    </address>
+    <primaryContactInfo>
+      <personCode>pt81</personCode>
+      <firstName> Simmons</firstName>
+      <lastName>Ben</lastName>
+      <address>
+        <street>1075 East Addidas Street</street>
+        <city>Minneapolis</city>
+        <state>MN</state>
+        <zip>40865</zip>
+        <country>USA</country>
+      </address>
+      <emailaddress>
+        <string>simmonsbb@cubs.com</string>
+      </emailaddress>
+    </primaryContactInfo>
+    <type>G</type>
+  </governmentCustomer>
+</customers>

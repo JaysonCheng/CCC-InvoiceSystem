@@ -1,0 +1,80 @@
+{
+"products": [
+  {
+    "pricePerUnit": 124.99,
+    "productCode": "ff23",
+    "name": "Cinco-Fone"
+  },
+  {
+    "consultant": {
+      "personCode": "aef1",
+      "firstName": "Gordon",
+      "lastName": "Gekko",
+      "address": {
+        "street": "1 Wall Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10005-0012",
+        "country": "USA"
+      },
+      "emails": []
+    },
+    "pricePerHour": 25.0,
+    "productCode": "3289",
+    "name": "Cinco-Fone Training"
+  },
+  {
+    "consultant": {
+      "personCode": "321nd",
+      "firstName": "William",
+      "lastName": "Hartnell",
+      "address": {
+        "street": "1060 West Addison Street",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60613",
+        "country": "USA"
+      },
+      "emails": [
+        "whartnell@doctors.com",
+        "dr@who.com"
+      ]
+    },
+    "pricePerHour": 150.0,
+    "productCode": "782g",
+    "name": "Server System Setup"
+  },
+  {
+    "fee": 2000.0,
+    "annualCost": 12000.0,
+    "productCode": "90fa",
+    "name": "Cinco Long Distance Service"
+  },
+  {
+    "pricePerUnit": 5000.0,
+    "productCode": "1239",
+    "name": "Cinco Video Cube Playback System"
+  },
+  {
+    "fee": 350.0,
+    "annualCost": 1200.0,
+    "productCode": "3295",
+    "name": "Domain registration"
+  },
+  {
+    "pricePerUnit": 14.99,
+    "productCode": "fp12",
+    "name": "Internette Discs"
+  },
+  {
+    "fee": 0.0,
+    "annualCost": 35000.0,
+    "productCode": "3294",
+    "name": "Cloud SQL Hosting"
+  },
+  {
+    "pricePerUnit": 2500.0,
+    "productCode": "b29e",
+    "name": "Cinco MIDI Organizer"
+  }
+]}
